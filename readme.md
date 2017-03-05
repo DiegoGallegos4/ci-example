@@ -1,11 +1,15 @@
-# Test app for Pluralsight course
+# Continuous Integration Example
 
-This is a quick and dirty test node.js app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub for a Pluralsight video training course..
+Use;
+- docker
+- circle ci
+- tutum
+
+to deploy a node test app.
 
 ## Instructions for use
 
-All of the files included in the .zip file (available to Plus subscribers) should be unzipped into a new directory.
-
-Initializing a Git repo and making a remote of it on GitHub are explained in Module 2 of the course.
-
-The viewer should have Git installed and have a GitHub account.
+- Create Circle CI Account and link your github project
+- Create a Docker Hub Account and link your github account
+- Create a trigger on docker hub
+- Add trigger on Circle CI.
