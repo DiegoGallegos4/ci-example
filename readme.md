@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/DiegoGallegos4/ci-example.svg?style=svg)](https://circleci.com/gh/DiegoGallegos4/ci-example)
+
 # Continuous Integration Example
 
 Use;
